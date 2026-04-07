@@ -3,7 +3,9 @@
 
 A multi-source web scraping pipeline with an automated content trust scoring algorithm.
 
+Built a Python-based multi-source scraper to extract and structure data from blogs, YouTube, and PubMed. Implemented metadata extraction, topic tagging, and content chunking. Designed a trust scoring system evaluating source reliability using credibility, recency, citations, and domain authority.
 ---
+
 
 ## Project Structure
 
@@ -174,6 +176,4 @@ Each scraped source is stored as a JSON object:
 }
 ```
 =======
-# DataScraping
-Built a Python-based multi-source scraper to extract and structure data from blogs, YouTube, and PubMed. Implemented metadata extraction, topic tagging, and content chunking. Designed a trust scoring system evaluating source reliability using credibility, recency, citations, and domain authority.
->>>>>>> 66e3c870c83426ecb1209d84c88b0d3897fce05e
+>>>>>>> 
