@@ -1,0 +1,26 @@
+[
+  {
+    "source_url": "https://pubmed.ncbi.nlm.nih.gov/38355097/",
+    "source_type": "pubmed",
+    "title": "Ethics and artificial intelligence.",
+    "author": "L Inglada Galiana, L Corral Gudino, P Miramontes González",
+    "journal": "Revista clinica espanola",
+    "published_date": "2024-Mar",
+    "language": "en",
+    "region": "Unknown",
+    "topic_tags": [
+      "Humans",
+      "Artificial Intelligence",
+      "Algorithms",
+      "Healthcare",
+      "AI",
+      "Technology"
+    ],
+    "trust_score": 0.4931,
+    "content_chunks": [
+      "The relationship between ethics and artificial intelligence in medicine is a crucial and complex topic that falls within its broader context. Ethics in medical artificial intelligence (AI) involves ensuring that technologies are safe, fair, and respect patient privacy. This includes concerns about the accuracy of diagnoses provided by artificial intelligence, fairness in patient treatment, and protection of personal health data. Advances in artificial intelligence can significantly improve healthcare, from more accurate diagnoses to personalized treatments.",
+      "However, it is essential that developments in medical artificial intelligence are carried out with strong ethical consideration, involving healthcare professionals, artificial intelligence experts, patients, and ethics specialists to guide and oversee their implementation. Finally, transparency in artificial intelligence algorithms and ongoing training for medical professionals are fundamental."
+    ],
+    "citation_count": 17
+  }
+]
